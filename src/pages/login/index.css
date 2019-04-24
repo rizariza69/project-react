@@ -1,0 +1,48 @@
+body {
+  /* background: linear-gradient(to right, #1cb5e0, #000046); */
+  /* background: linear-gradient(to right, #fdbb2d, #22c1c3); */
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  padding: 30px;
+
+
+}
+
+.formLogin {
+  width: 400px;
+  border: white solid 5px;
+  border-radius: 30px;
+  padding: 30px;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  width: 300px;
+}
+
+.toRegister {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.btn-light {
+  width: 300px;
+}
